@@ -1,1 +1,1 @@
-# Estudo do livro How to Design Programs, usando Clojure
+### [How to Design Programs, Second Edition](https://htdp.org)
